@@ -2,7 +2,8 @@
 Golang code I wrote, useful but boring in a docker only server environment. 
 
 Description: 
-docker-watch: a tiny Docker event watcher & alerter.
+
+docker-watch: a tiny Docker event watcher and alerter.
 
 It streams the Docker events API and alerts on:
  - restart loops      (a container dying repeatedly in a short window)
